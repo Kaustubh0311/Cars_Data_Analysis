@@ -72,6 +72,30 @@ Visualizations include:
 
 ![Technical Specifications](Cars_Data_Analysis_ss/Page-3-Specifications.png)
 
+
+
+## Project Highlights
+
+- Analyzed car manufacturers, models, and vehicle categories.
+- Compared vehicle prices using MSRP and Invoice.
+- Explored car distribution across different geographical origins.
+- Analyzed horsepower across vehicle models and categories.
+- Examined the relationship between engine size and horsepower.
+- Compared city and highway mileage across vehicle types and manufacturers.
+- Explored drivetrain and cylinder-based vehicle specifications.
+
+## Key Analysis Areas
+
+| Area | Analysis |
+|---|---|
+| Market Analysis | Manufacturer, model, and vehicle type comparisons |
+| Pricing Analysis | MSRP and Invoice comparisons |
+| Performance Analysis | Horsepower and engine size |
+| Fuel Efficiency | City and highway mileage |
+| Vehicle Specifications | Cylinders and drivetrain |
+| Origin Analysis | Vehicle distribution by origin |
+
+
 ## Dataset Information
 
 The report uses a table named `CARS`.
