@@ -116,13 +116,18 @@ Through this project, I gained practical experience in:
 ## Repository Structure
 
 ```text
-Cars-Data-Analysis-PowerBI/
+
+Cars_Data_Analysis/
 │
-├── Dashboard/
-├── Screenshots/
-├── Dataset/
-├── Documentation/
+├── Cars_Data_Analysis_ss/
+│   ├── Page-1-Overview.png
+│   ├── Page-2-Performance.png
+│   └── Page-3-Specifications.png
+│
+├── CARS.csv
+├── Car_Analysis.pbix
 └── README.md
+
 ```
 
 ## Conclusion
