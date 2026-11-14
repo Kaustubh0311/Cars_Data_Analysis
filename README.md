@@ -58,6 +58,20 @@ Visualizations include:
 - Engine size and horsepower relationship.
 - Horsepower distribution across vehicle types.
 
+## Dashboard Screenshots
+
+### 1. Car Market Overview
+
+![Car Market Overview](Cars_Data_Analysis_ss/Page-1-Overview.png)
+
+### 2. Price, Performance & Distribution
+
+![Price Performance and Distribution](Cars_Data_Analysis_ss/Page-2-Performance.png)
+
+### 3. Technical Specifications
+
+![Technical Specifications](Cars_Data_Analysis_ss/Page-3-Specifications.png)
+
 ## Dataset Information
 
 The report uses a table named `CARS`.
